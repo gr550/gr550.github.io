@@ -1,7 +1,7 @@
 ---
 layout: chapter
-title: "HTML <strong>Basics</strong>"
-subtitle: "HTML is like <strong>Word</strong> but for the <strong>Web</strong>"
+title: "HTML <strong>Básico</strong>"
+subtitle: "O HTML é como o <strong>Word</strong> mas para a <strong>Web</strong>"
 section: html
 ---
 
