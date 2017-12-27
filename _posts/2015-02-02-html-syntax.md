@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A síntaxe do HTML"
-subtitle: "O HTML tem <strong>rules</strong>"
+subtitle: "O HTML tem <strong>regras</strong>"
 section: html
 ---
 
